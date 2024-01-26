@@ -1,0 +1,75 @@
+body{
+  background-image: linear-gradient(black,red,black);
+}
+hr{
+    border-top: 2px solid white;
+}
+
+  .header-text-1{
+    
+    font-size: 4rem;
+    font-weight: 600;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+}
+  .header-text-2{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 30px;
+    padding:10px 0px;
+    color:white;
+  }
+.games{
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align: center;
+    font-size: 2rem;
+    color:white;
+}
+.row{
+  color:white;
+  margin-bottom: 30px;
+}
+.card-header{
+  font-size: 35px;
+  font-weight:700;
+}
+.cards{
+    width:350px;
+    height:250px;
+    filter: drop-shadow(10px 10px 12px grey);
+    border-radius:5%;
+    margin: 10px 0px;
+    transition:0.5s;
+}
+.cards:hover{
+    width:365px;
+    height:265px;
+    transition:0.5s;
+}
+.btn{
+    font-size:1rem;
+    font-weight: 700;
+    padding: 0.5em 1em;
+    color: rgb(255, 49, 49);
+    border: 5px solid rgb(255, 49, 49);
+    border-radius:10px;
+    transition: 0.5s;
+    background-color: rgb(255, 209, 209);
+    margin-bottom:30px;
+  
+  
+  }
+  .btn:hover {
+    background-color: rgb(255, 49, 49);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color:white;
+    transform: translateY(-1px);
+  }
+  .btn:active{
+    background-color: rgb(255, 94, 94) !important;
+    border: 5px solid rgb(255, 94, 94) !important;
+    color:white !important;
+    opacity: 0.4;
+   
+  }

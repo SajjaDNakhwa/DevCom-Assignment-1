@@ -1,0 +1,129 @@
+body{
+  background-color: #ffebc4;
+}
+p{
+  text-align: center;
+  opacity: 0.6;
+  padding:10px;
+}
+a{
+  text-decoration:none;
+}
+.navbar{
+  background-color: #ffc85b !important;
+  transition:1s;
+}
+.navbar:hover{
+  background-color: #ffebc4 !important;
+  transition:1s;
+}
+.header{
+  width:100%;
+  background-color:  #ffc85b;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  height:600px;
+  transition: 1s;
+}
+.header:hover{
+  background-color: #ffebc4;
+  transition: 1s;
+}
+.header-text-1{
+  font-size: 7rem;
+  font-family: 'Tangerine',cursive;
+}
+.header-text-2{
+  font-size: 2rem;
+  font-family: 'Roboto Mono', monospace;
+}
+.greeting{
+  font-size: 4rem; 
+  margin: 20px 0px;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+}
+.hobby-head{
+  font-size: 4rem; 
+  margin: 20px 0px;
+  font-weight: 500;
+  font-family: 'Grandstander',cursive;
+}
+.get{
+  font-size: 4rem; 
+  margin: 20px 0px;
+  font-weight: 400;
+}
+.personal-photo{
+  height:250px;
+  width:250px;
+  filter: drop-shadow(10px 10px 10px grey);
+  border-radius:50%;
+  margin: 10px 0px;
+  transition:0.5s;
+}
+.personal-photo:hover{
+  height:275px;
+  width:275px;
+  transition:0.5s;
+}
+.desc{
+  font-size: 2rem;
+ margin: 20px 0px;
+}
+.hobbies{
+  color:#ff9d00;
+  transition:0.6s;
+}
+.hobbies:hover{
+  color: rgb(255, 80, 17);
+  transition:0.6s;
+}
+hr{
+  margin:25px auto;
+  width:15%;
+  border-top: 10px dotted #ffb700;
+}
+.btn{
+  font-size:1rem;
+  font-weight: 700;
+  padding: 0.5em 1em;
+  color: #ffaa00;
+  border: 5px solid #ffaa00;
+  border-radius:10px;
+  transition: 0.5s;
+  background-color: #ffebc4;
+}
+.btn:hover{
+  background-color: #ffaa00;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color:white;
+  transform: translateY(-1px);
+}
+.footer{
+  background-color:#FFC95F;
+  height:150px;
+  margin-top: 20px;
+  transition:1s;
+}
+.footer:hover{
+  background-color: #ffaa00;
+  transition:1s;
+}
+.icons{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  height: 13vh;
+}
+.footer-icons{
+  opacity:0.6 !important;
+  height:40px;
+  width:40px;
+  margin:20px;
+}
+
+
+

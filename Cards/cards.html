@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playing Cards</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="cards.css">
+</head>
+<body>
+    <div class = "container-fluid text-center" style="margin-top:30px;">
+        <div class="header-text-1">Playing Cards</div>
+        <div class="header-text-2">Playing cards is one of the most fun activity that I often do. Friends gather around, all minds clashing in heavy strategy and skill based games , it gets really exciting!</div>    
+        <div class="games">These are some of the games that I find really fun!</div>
+    <div class="container text-center">
+        <hr>
+        <div class="row">
+            <div class="col-lg-5"><img src="games/callbreak.jpeg" alt="callbreak" class="cards"></div>
+            <div class="col-lg-7">
+                <div class="col card-header">Call Break</div>
+                <div class="col" style="font-size: 25px;">Play in teams of two or three for a great game of strategy and memory! Use your hand wisely to choose the suit to be the <span style = "font-weight: 700;">Cart</span>. Break others' hopes by cheekily using your carts to gain a hand! Beware, for your opponent may have some Aces up their sleeves!</div>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="col card-header">Black Jack</div>
+                <div class="col" style="font-size: 25px;">Experience the thrill of the cards with Blackjack - the ultimate game of strategy and luck! Beat the dealer, chase the elusive 21, and immerse yourself in the heart-pounding excitement of this classic adventure. Are you ready to hit or stand your way to victory?</div>
+            </div>
+            <div class="col-lg-5"><img src="games/blackjack.jpeg" alt="blackjack" class="cards"></div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-5"><img src="games/bluff.jpeg" alt="bluff" class="cards"></div>
+            <div class="col-lg-7">
+                <div class="col card-header">Bluff</div>
+                <div class="col" style="font-size: 25px;">Dive into the world of cunning and deception with Bluff, where every card is a bluff waiting to be revealed! Outsmart your opponents, master the art of deception, and revel in the excitement of this strategic card game. Will you call their bluff or create your own epic tale of clever foolery!</div>
+            </div>
+        </div>
+        <hr>
+        <div class = "row">
+            <div class="col" style="font-size: 25px;">There's another game which is extremely simple yet fun. It's called <span style = "font-weight: 700;">Guess The Card!</span> All you have to do is guess the card which is with the other person! Since the odds are so low, it gets really crazy when someone actually gets it! How about you play it for yourself?</div>
+        </div>
+        <button class = "btn" onclick="guess()">Guess The Card!</button>
+    </div>
+    <script src="cards.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+body{
+  background-color:orange;
+}
+.header-text-1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+    color: black;
+}
+.header-text-2{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 30px;
+    color:black;
+}
+.btn{
+    font-size:1rem;
+    font-weight: 700;
+    padding: 0.5em 1em;
+    color: rgb(255, 115, 0);
+    border: 5px solid rgb(255, 115, 0);
+    border-radius:10px;
+    transition: 0.5s;
+    background-color: rgb(255, 188, 133);
+    margin-bottom:30px;
+  
+  
+  }
+  .btn:hover {
+    background-color: rgb(255, 115, 0);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color:rgb(101, 101, 101);
+    transform: translateY(-1px);
+  }
+  .btn:active{
+    background-color: rgb(255, 115, 0) !important;
+    border: 5px solid rgb(255, 115, 0) !important;
+    color:rgb(48, 48, 48) !important;
+    opacity: 0.4;
+   
+  }
