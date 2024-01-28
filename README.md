@@ -11,5 +11,16 @@
 #### 5. [Things that did not work](#issues)
 #### 6. [Contact](#contact)
 
-## About {#about}
+## About 
+rngnvwiurnvwurnviwurnvuwnvuwnerviuwnevnwevnweoivnweovnweoivnwenvewoi
+## Features
+aiurvnauirnviaurwbiuwviuwenvuvwenvwneovnweoivnweoeivnwoeinvoew
+## Technologies Used
+winiaurnviuaenrviwnererovinweoivnweoivweoncwoeienoiwenvoiwenoiwe
+## Philosophy of the Website
+iunvuiwenvuiuwenvoiwienvwnvuwneevnwevbasuivaibviuaviuawiuvbarvuiarvuar
+## Things that did not work
+iaubvinaruibaruirvbauirviuawvanaruvheanvahvnwvnwuivnwieinvewnvuinsuivne
+## Contact
+aoiovnvawewnvaiunvauiwnvwnrnanwvuuvnssviowewidkfsvanvjsnvjk;snghjkmnbgh
 
