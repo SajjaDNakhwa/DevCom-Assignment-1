@@ -31,6 +31,10 @@ A contact button so users can directly post a mail.
 ### 5. Footer Section
 Interactive footer section which contains social platforms and copyright marks.
 ### 6. Hobbies
+Designed personalised pages for 5 different hobbies. Here is a brief outlook about each of them:-
+- Programming and WebDev
+  Fonts and color schemes match to give a 'computer' based look. Design is simple and not too sophisticated to add a       professional look. A button which opens a simple meme that I designed using basic HTML and CSS.
+- 
 
 ## Technologies Used
 winiaurnviuaenrviwnererovinweoivnweoivweoncwoeienoiwenvoiwenoiwe
