@@ -1,4 +1,4 @@
-//funtion to greet in different languages when hovered
+//function to greet in different languages when hovered
 const button = document.querySelector('.greeting');
 button.addEventListener('mouseover', () => {
   var greet = ["Greetings!","Hóla!","Namaste!","Marhaba!","Vanakkam!","Nǐ Hǎo!","Bonjour!","Konnichiwa!","Ciao!","Namaskaar!"];
