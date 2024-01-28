@@ -6,9 +6,9 @@
 ## Table of Contents 
 #### 1. [About](#about)
 #### 2. [Features](#features)
-#### 3. [Technologies Used](#technologiesused)
-#### 4. [Philosophy of the Website](#philosophyofthewebsite)
-#### 5. [Things that did not work](#thingsthatdidnotwork)
+#### 3. [Technologies Used](#technologies-used)
+#### 4. [Philosophy of the Website](#philosophy-of-the-website)
+#### 5. [Things that did not work](#things-that-did-not-work)
 #### 6. [Contact](#contact)
 
 ## About 
