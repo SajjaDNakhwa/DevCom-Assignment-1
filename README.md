@@ -43,11 +43,19 @@ Designed personalised pages for 5 different hobbies. Here is a brief outlook abo
 - ##### Typing :-
   Colour scheme and fonts to match the `monkeytype` website. Added a beautiful carousel which showcases my typing journey using `Bootstrap`.
 ## Technologies Used
-winiaurnviuaenrviwnererovinweoivnweoivweoncwoeienoiwenvoiwenoiwe
+Here are the programming languages/libraries used:-
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 ## Philosophy of the Website
-iunvuiwenvuiuwenvoiwienvwnvuwneevnwevbasuivaibviuaviuawiuvbarvuiarvuar
+I've tried to keep the website as simple and minimalistic as possible while also keeping it engaging, which I think quite suits myself. I thought the main page should reflect the developer of the website. This made me design the main page using a simple desert-based theme. I chose this specific theme as I believe it portrays serenity, sublime-character, and humility. The font is simple and easy to read, which matches the theme. The rest of the pages match the theme of the hobby itself, which I believe blends in well with the project objectives.
 ## Things that did not work
-iaubvinaruibaruirvbauirviuawvanaruvheanvahvnwvnwuivnwieinvewnvuinsuivne
+These are some of the things that did not work:-
+- Wanted to add a sliding image in the main page, which appears as the user scrolls.
+- Created a contact form but could not directly connect it to the mail, as in could not store the entered information. (I have added the HTMl and CSS code of the form in the repository.
+- Wanted to add background images for some of the pages, but could not make them responsive enough
+I believe joining the team would help me further gain skills and abilities to learn tons of new things, work with a like-minded group of people, and easily be able to handle the above mentioned stuff.
 ## Contact
-aoiovnvawewnvaiunvauiwnvwnrnanwvuuvnssviowewidkfsvanvjsnvjk;snghjkmnbgh
+
 
