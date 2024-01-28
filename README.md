@@ -19,7 +19,7 @@ The website is designed to be accessible and visually appealing on various devic
 ### 2. Navigation Bar
 Implemented a navigation bar which helps users to easily navigate throughout the main page using `Bootstrap`.
 ### 3. Interactive Elements
-Added lots of interactive elements such as hovering effects, buttons, color changes, hyperlinking, videos etc. 
+Added lots of interactive elements such as hovering effects, buttons, color changes, hyperlinking, videos etc. (Access hovering elements on mobile phones by tapping them) 
 Here is a list of the interactive elements on the main page:-
 - Hovering effects on the navigation bar, header and the footer
 - Hovering effects on the 'Greetings' section, so it greets in different languages when hovered
