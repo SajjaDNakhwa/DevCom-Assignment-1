@@ -12,9 +12,26 @@
 #### 6. [Contact](#contact)
 
 ## About 
-rngnvwiurnvwurnviwurnvuwnvuwnerviuwnevnwevnweoivnweovnweoivnwenvewoi
+This portfolio showcases brief information about myself, my skills in the area of Web Development and Designing. It also portrays some fun hobbies of mine in well-designed pages for each of them, such as playing cards and juggling. At the end there is a contact me section implemented to which help users to directly send a mail to me. 
 ## Features
-aiurvnauirnviaurwbiuwviuwenvuvwenvwneovnweoivnweoeivnwoeinvoew
+### 1. Responsive Design
+The website is designed to be accessible and visually appealing on various devices and screen sizes.
+### 2. Navigation Bar
+Implemented a navigation bar which helps users to easily navigate throughout the main page.
+### 3. Interactive Elements
+Added lots of interactive elements such as hovering effects, buttons, color changes, hyperlinking, videos etc. 
+Here is a list of the interactive elements on the main page:-
+- Hovering effects on the navigation bar, header and the footer
+- Hovering effects on the 'Greetings' section, so it greets in different languages when hovered
+- Personal image resizes when hovered upon and opens LinkedIn when clicked
+- Contact me button to post a mail
+- Footer Icons open respective handles
+### 4. Contact Button
+A contact button so users can directly post a mail.
+### 5. Footer Section
+Interactive footer section which contains social platforms and copyright marks.
+### 6. Hobbies
+
 ## Technologies Used
 winiaurnviuaenrviwnererovinweoivnweoivweoncwoeienoiwenvoiwenoiwe
 ## Philosophy of the Website
