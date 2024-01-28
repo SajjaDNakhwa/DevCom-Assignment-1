@@ -1,3 +1,4 @@
+// function to generate a random card, called when user clicks on 'Guess the Card!' button on the playing cards page
 function guess()
 {
     var values = ["Ace","2","3","4","5","6","7","8","9","10","Jack","Queen","King"];
