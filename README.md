@@ -32,15 +32,15 @@ A contact button so users can directly post a mail.
 Interactive footer section which contains social platforms and copyright marks.
 ### 6. Hobbies
 Designed personalised pages for 5 different hobbies. Here is a brief outlook about each of them:-
-- ###### Programming and WebDev :- 
+- ##### Programming and WebDev :- 
   Fonts and color schemes match to give a 'computer' based look. Design is simple and not too sophisticated to add a       professional look. A button which opens a simple meme that I designed using basic HTML and CSS.
-- ###### Reading Mangas :-
+- ##### Reading Mangas :-
   Color scheme to showcase classical manga based colors, and fonts to add a joyous look. Images resize and change opacity, with the current background, it acts as if the images are glowing. A button at the end which pops up a simple alert.
-- ###### Playing Cards :-
+- ##### Playing Cards :-
   Red and Black background to match the colour of the standard cards. Hovering effects for the images. A fun random-card- generator added in the end using javascript, which generates a random card each time the button is pressed, using the `Math.random()` function.
-- ###### Juggling :-
+- ##### Juggling :-
   Simple color scheme and joyous font. Added an interactive video using the HTML `video` element. Sized the video using appropriate dimensions to fit all screen sizes.
-- ###### Typing :-
+- ##### Typing :-
   Colour scheme and fonts to match the `monkeytype` website. Added a beautiful carousel which showcases my typing journey using `Bootstrap`.
 ## Technologies Used
 winiaurnviuaenrviwnererovinweoivnweoivweoncwoeienoiwenvoiwenoiwe
