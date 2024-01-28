@@ -55,6 +55,7 @@ These are some of the things that did not work:-
 - Wanted to add a sliding image in the main page, which appears as the user scrolls.
 - Created a contact form but could not directly connect it to the mail, as in could not store the entered information. (I have added the HTMl and CSS code of the form in the repository.
 - Wanted to add background images for some of the pages, but could not make them responsive enough
+
 I believe joining the team would help me further gain skills and abilities to learn tons of new things, work with a like-minded group of people, and easily be able to handle the above mentioned stuff.
 ## Contact
 
