@@ -33,7 +33,7 @@ Interactive footer section which contains social platforms and copyright marks.
 ### 6. Hobbies
 Designed personalised pages for 5 different hobbies. Here is a brief outlook about each of them:-
 - ##### Programming and WebDev :- 
-  Fonts and color schemes match to give a 'computer' based look. Design is simple and not too sophisticated to add a       professional look. A button which opens a simple meme that I designed using basic HTML and CSS.
+  Fonts and color schemes match to give a 'computer' based look. Design is simple and not too sophisticated to add a professional look. A button which opens a simple meme that I designed using basic HTML and CSS.
 - ##### Reading Mangas :-
   Color scheme to showcase classical manga based colors, and fonts to add a joyous look. Images resize and change opacity, with the current background, it acts as if the images are glowing. A button at the end which pops up a simple alert.
 - ##### Playing Cards :-
@@ -49,7 +49,7 @@ Here are the programming languages/libraries used:-
 - JavaScript
 - Bootstrap
 ## Philosophy of the Website
-I've tried to keep the website as simple and minimalistic as possible while also keeping it engaging, which I think quite suits myself. I thought the main page should reflect the developer of the website. This made me design the main page using a simple desert-based theme. I chose this specific theme as I believe it portrays serenity, sublime-character, and humility. The font is simple and easy to read, which matches the theme. The rest of the pages match the theme of the hobby itself, which I believe blends in well with the project objectives.
+I've tried to keep the website as simple and minimalistic as possible while also keeping it engaging, which I think quite resembles my character. I thought the main page should reflect the developer of the website. This made me design the main page using a simple desert-based theme. I chose this specific theme as I believe it portrays serenity, sublime-character, and humility. The font is simple and easy to read, which matches the theme. The rest of the pages match the theme of the hobby itself, which I believe blends in well with the project objectives.
 ## Things that did not work
 These are some of the things that did not work:-
 - Wanted to add a sliding image in the main page, which appears as the user scrolls.
